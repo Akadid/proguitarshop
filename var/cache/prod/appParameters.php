@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'david_proguitarshop',
+    'database_user' => 'davidb',
+    'database_password' => 'xabg263B@',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'hBFIBzsqdznLHQF8dx10yn3hSppALN2oBOSTdadxdfyvsyvnQb6wOUCTkCiVYPPt',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2023-11-13',
+    'locale' => 'fr-FR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'B6TQhFoNPHAoG1ABJFSQ6nJNf2LWHTKkuNnaJfBekrLrKs2vKAzkTfZtHh7xLz1a',
+    'cookie_iv' => 'B0xxmnDJrsGzawUOnP3oL5jD93BgL8tp',
+    'new_cookie_key' => 'def00000e333eb6e7d4ea975232ea0129b20bdfbdd9649c6f094db989b4b6ec8b08211566c12ae6d1504e94064d6321eb02fb9f4293b69143497488f5c04dc01d6eb8fa6',
+  ),
+);
